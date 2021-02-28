@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+MY NAME IS MOHD BILAL KHAN 
+B.TECH COMPUTER SCINCE
+FROM JAIPUR NATIONAL UNIVERSITY
+"WEB DEVELOPMENT" "WEB DESIGNING"
 <!--
 **Mohd-Bilal-Khan/Mohd-Bilal-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
